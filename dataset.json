@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in South Carolina, US",
+  "export_job_id": "a6581ecd-42d2-49ce-a896-9ec1e78b881c",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 739694,
+  "location_name": "South Carolina",
+  "location_type": "state",
+  "repo_name": "restaurant-verified-email-access-in-south-carolina-us-sample-739694",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/739694/beamstation_739694_restaurants-us-sc_SAMPLE_DIST.csv",
+  "sample_pct": 11.57,
+  "sample_records": 201,
+  "sample_sha256": "d4f362d69adc26669368a727b339602c4cd995cecca38c9c04ea288600e006a2",
+  "sample_size_bytes": 797735,
+  "total_records": 1738,
+  "updated_at": "2026-04-01T01:27:16.896192+00:00"
+}
