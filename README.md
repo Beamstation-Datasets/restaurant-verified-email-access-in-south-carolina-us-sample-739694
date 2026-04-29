@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in South Carolina, US
 
-> Free BeamStation sample export with 229 rows and masked direct-contact fields.
+> Free BeamStation sample export with 262 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `739694` |
 | Location | South Carolina |
 | Category | Restaurants |
-| Full dataset size | 2,292 records |
-| Free sample size | 229 records (9.99%) |
-| Last export | 2026-04-22T09:01:25.874132+00:00 |
+| Full dataset size | 2,626 records |
+| Free sample size | 262 records (9.98%) |
+| Last export | 2026-04-29T10:33:36.634432+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-south-carolina-us-sample-739694/releases/download/sample-latest/beamstation_739694_restaurants-us-sc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
