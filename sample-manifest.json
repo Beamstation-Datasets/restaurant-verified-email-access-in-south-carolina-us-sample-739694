@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ad5b241a-87f0-4efe-836b-209e4c09a6c8",
+  "export_job_id": "9b6cf79e-2776-4c14-a9c9-07f6b155de1c",
   "id_short": 739694,
-  "published_at": "2026-04-23T07:07:47Z",
+  "published_at": "2026-04-29T19:34:00Z",
   "repo_name": "restaurant-verified-email-access-in-south-carolina-us-sample-739694",
   "sample_asset_name": "beamstation_739694_restaurants-us-sc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/739694/beamstation_739694_restaurants-us-sc_SAMPLE_DIST.csv",
-  "sample_records": 229,
-  "sample_sha256": "62101db8cfcec65fda2b817c8dad272db8b4b63c04c8d235ad40c15b55c30a7f",
-  "sample_size_bytes": 918958,
-  "total_records": 2292
+  "sample_records": 262,
+  "sample_sha256": "ebf59b380feca7e89f9d7207ccb0e5bd686b57ddc81fa2ba81c67f199da181d5",
+  "sample_size_bytes": 1024596,
+  "total_records": 2626
 }
